@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+.DS_Store
+
+# Build artifacts
+bin/ake-temp
+bin/ake-obfuscated
+bin/ake-final
+build/
+
+# Internal tools and old implementations (not for public)
+tools/
+ake_platform_installer.py
+install.sh
+ake-install.sh
+
+# Source code (not for public - only binary distribution)
+cmd/
+src/
+go.mod
+go.sum
+build.sh
