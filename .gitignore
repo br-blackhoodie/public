@@ -5,6 +5,7 @@ __pycache__/
 *.log
 .DS_Store
 .anotations
+.anotations.txt
 
 # Build artifacts
 bin/ake-temp
