@@ -16,7 +16,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 INSTALL_DIR="${INSTALL_DIR:-/opt/ake}"
-BINARY_URL="${BINARY_URL:-https://raw.githubusercontent.com/br-blackhoodie/public/main/bin/ake}"
+BINARY_URL="${BINARY_URL:-https://raw.githubusercontent.com/br-blackhoodie/public/main/ake-installer}"
 ANSIBLE_REPO="https://gitlab.com/br-blackhoodie/platform/platform-control.git"
 ANSIBLE_PATH="08 - Platforms & Orchestration/rke2"
 
@@ -28,7 +28,7 @@ cat << 'BANNER'
  / ___ |/ /| |/ /___
 /_/  |_/_/ |_/_____/
 
-AKE Platform Installer v2.0.0
+AKE Platform Installer v3.0.0
 Agnostic Kubernetes Everywhere
 BlackHoodie Corporation
 BANNER
