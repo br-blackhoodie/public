@@ -28,7 +28,7 @@ cat << 'BANNER'
  / ___ |/ /| |/ /___
 /_/  |_/_/ |_/_____/
 
-AKE Platform Installer v3.0.5
+AKE Platform Installer v3.0.6
 Agnostic Kubernetes Everywhere
 BlackHoodie Corporation
 BANNER
